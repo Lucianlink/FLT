@@ -65,7 +65,7 @@
 Press the below button to  deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
-  
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)  
   
  <p><b>Available commands and features:</b>
  
